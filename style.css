@@ -54,6 +54,11 @@ a:hover, a:active {
 /*
 # Site Branding
 --------------------------------*/
+
+.logo {
+    height: 70px;
+    width: auto;
+}
 .site-branding {
     width: calc(100% - 24px);
     padding: 20px 0;
